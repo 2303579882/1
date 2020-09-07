@@ -1,3 +1,4 @@
+<script src="/main.js?raw=true"></script>
 # 不要点击下面的网址！！
 不要点击下面的网址！！
 **你为什么执迷不悟？**
